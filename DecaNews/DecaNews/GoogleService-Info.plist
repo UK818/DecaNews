@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1020653200021-se4ko8phdmla3chhpit3nej980a254bb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1020653200021-se4ko8phdmla3chhpit3nej980a254bb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCalFd5736zO6QqXDLP6_LF8MHFgqmlM70</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1020653200021</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Decagon.DecaNews.dev</string>
+	<key>PROJECT_ID</key>
+	<string>decanews-de183</string>
+	<key>STORAGE_BUCKET</key>
+	<string>decanews-de183.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1020653200021:ios:446f2c5864db075b9f719c</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+excluded:
+- Pods
+
+disabled_rules:
+- trailing_whitespace
+- line_length
+- nesting
+- identifier_name
+
+large_tuple: # warn user when using 3 values in tuple, give error if there are 4
+   - 3
+   - 4
